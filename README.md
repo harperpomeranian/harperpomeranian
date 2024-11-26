@@ -7,8 +7,15 @@
     - Knows when to not reply
 2. Chatter
     - Local Wi-Fi Chatting and video calling app
-3. Stuffy-Stuffs
+
+### Other things I'm working on
+
+1. Stuffy-Stuffs
     - Website filled with tools
+2. YonKaPhone
+    - Full screen locked video player that plays [YonKaGor's](https://www.youtube.com/@YonKaGor) music videos.
+    - Disables audio buttons and pins the app (prevents access to notificaiton bar and nav keys) so the Yon will never stop!!
+    - Seadrive guides you through the whole setup of the app
 
 ## 🍟 I love web development projects (both front and back end)
 
